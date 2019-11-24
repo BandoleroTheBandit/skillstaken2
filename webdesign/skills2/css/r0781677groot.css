@@ -17,3 +17,13 @@ figure {
     width: 640px;
     margin: 20px auto;
 }
+
+ul {
+    display: flex;
+    color: red;
+}
+
+ul li {
+    flex: 0 0 250px;
+    color: red;
+}
