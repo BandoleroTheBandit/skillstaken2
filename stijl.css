@@ -89,14 +89,14 @@ footer{
 
 
 
- .vakje1 p{
+.vakje1 p{
     margin-top: 5px;
     text-align: center;
 }
- .vakje2 p{
-     margin-top: 5px;
-     text-align: center;
- }
+.vakje2 p{
+    margin-top: 5px;
+    text-align: center;
+}
 
 article{
     margin: 10px;
@@ -121,7 +121,7 @@ article{
 .center {
     margin: 20px;
     width: 100%;
-   padding: 20px;
+    padding: 20px;
 }
 
 
