@@ -75,7 +75,7 @@ a:hover {
     color: royalblue;
 }
 footer{
-    background-color: #ccc;
+    background-color: cadetblue;
     margin-top: 50px;
     padding: 20px;
 }
@@ -171,6 +171,8 @@ article{
     right: 0;
 }
 
-footer{
-    background-color: cadetblue;
+
+
+.onderlijn{
+    text-decoration: underline;
 }
